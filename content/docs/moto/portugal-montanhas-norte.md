@@ -47,7 +47,7 @@ Preços por pessoa.
 | **Dia** | **Nome** | **Contactos** | **Preço** | **Pequeno Almoço** | **Estacionamento** | **Pagamento** |
 |----|----|----|----|----|----|----|
 | 0 | Beleza Serra Guide Hotel | [Site](https://belezaserraguidehotel.com/) | 42,5 | Sim | Sim, exterior, vigilância | Sim |
-| 1 | Coração do Tua Hotel, por confirmar | [Site](https://www.coracaodotua.pt) | 55 | Sim | ? | Não |
+| 1 | Coração do Tua Hotel | [Site](https://www.coracaodotua.pt) | 37,5 | Sim | Sim | No checkin |
 | 2 | Inn Caramulo Hotel | [Site](https://inncaramulohotel.pt) | 37,5 | Sim | Sim, vigilância | No checkin |
 | 3 | Casa de Campo Vale do Ceira | [Site](https://casadecampovaledoceira.talkguestwebsites.com) | 42,5 | Não | Sim | Sim |
 
@@ -63,7 +63,7 @@ A definir!
 
 Por pessoa.
 
-* Dormidas: 177,5 EUR
+* Dormidas: 160 EUR
 * Alimentação: 5*(20+20) = 200 EUR
 * Combustível: 150 EUR
-* **Total**: 527,5 EUR
+* **Total**: 510 EUR
