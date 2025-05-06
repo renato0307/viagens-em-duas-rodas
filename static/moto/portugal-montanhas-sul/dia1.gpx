@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Kurviger.de" version="1.1" xmlns:gh="https://kurviger.de/public/schema/gpx/1.1">
+<metadata>
+<name>Serras do Sul - Dia 1 (alternativa 1)</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-04-16T21:06:51Z</time>
+</metadata>
+<rte><name>Serras do Sul - Dia 1 (alternativa 1)</name>
+<rtept lat="38.56518" lon="-8.896364"><name>Continue</name><desc>Continue</desc><sym>Flag, Green</sym><type>start</type></rtept>
+<rtept lat="38.524528" lon="-8.893245"><name>Waypoint 1</name><desc>Waypoint 1</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="38.445682" lon="-8.842443"><name>Waypoint 2</name><desc>Waypoint 2</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="38.3804" lon="-8.785858"><name>Waypoint 3</name><desc>Waypoint 3</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="38.073386" lon="-8.782303"><name>Waypoint 4</name><desc>Waypoint 4</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.948804" lon="-8.704672"><name>Waypoint 5</name><desc>Waypoint 5</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.890019" lon="-8.695321"><name>Waypoint 6</name><desc>Waypoint 6</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.85157" lon="-8.793678"><name>Waypoint 7</name><desc>Waypoint 7</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.725005" lon="-8.782942"><name>Waypoint 8</name><desc>Waypoint 8</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.428204" lon="-8.766462"><name>Waypoint 9</name><desc>Waypoint 9</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.422417" lon="-8.767296"><name>Waypoint 10</name><desc>Waypoint 10</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.412458" lon="-8.76761"><name>Waypoint 11</name><desc>Waypoint 11</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.388918" lon="-8.788858"><name>Waypoint 12</name><desc>Waypoint 12</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.371693" lon="-8.800024"><name>Waypoint 13</name><desc>Waypoint 13</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.347511" lon="-8.801116"><name>Waypoint 14</name><desc>Waypoint 14</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.00149" lon="-8.94775"><name>Waypoint 15</name><desc>Waypoint 15</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.090501" lon="-8.822228"><name>Waypoint 16</name><desc>Waypoint 16</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.096362" lon="-8.80453"><name>Waypoint 17</name><desc>Waypoint 17</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.299365" lon="-8.654268"><name>Waypoint 18</name><desc>Waypoint 18</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.297158" lon="-8.629704"><name>Waypoint 19</name><desc>Waypoint 19</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.292812" lon="-8.584904"><name>Waypoint 20</name><desc>Waypoint 20</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.297398" lon="-8.56534"><name>Waypoint 21</name><desc>Waypoint 21</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.304628" lon="-8.560433"><name>Waypoint 22</name><desc>Waypoint 22</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.311828" lon="-8.590339"><name>Waypoint 23</name><desc>Waypoint 23</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.315832" lon="-8.595142"><name>Waypoint 24</name><desc>Waypoint 24</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.325667" lon="-8.566403"><name>Waypoint 25</name><desc>Waypoint 25</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.320713" lon="-8.55224"><name>Waypoint 26</name><desc>Waypoint 26</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.332434" lon="-8.515551"><name>Waypoint 27</name><desc>Waypoint 27</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="37.31969" lon="-8.494339"><name>Arrive at destination</name><desc>Arrive at destination</desc><sym>Flag, Red</sym><type>destination</type></rtept>
+</rte>
+</gpx>
