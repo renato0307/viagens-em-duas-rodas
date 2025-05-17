@@ -39,37 +39,68 @@ Distância aproximadas.
 
 Prenoita ao ar livre em zonas permitidas ou em parque de campismo, com tenda.
 
-## Visitar/Conhecer
+## Visitar/Conhecer (Possibilidates)
 
 ### Dia 1
 
-- Setúbal: Castelo de Palmela
-- Setúbal: Serra da Arrábida
-- Alcácer do Sal: Castelo 
-- Alcácer do Sal: Cripta Arqueológica
+- Setúbal: Serra da Arrábida 
+- Alcácer do Sal: Castelo 👀
+- Alcácer do Sal: Cripta Arqueológica 👀
 - Alcácer do Sal: Igreja de Santa Maria do Castelo (século XIII)
 - Alcácer do Sal: Capela Senhor dos Mártires
-- Alcácer do Sal: Pinhoadas (confeitaria típica)
+- Alcácer do Sal: Pinhoadas (confeitaria típica) 👀
 - Lagoa de Santo André
 - Santiago do Cacém: Castelo
 - Santiago do Cacém: Ruinas de Miróbriga
 - Vila Nova de Milfontes: Forte de São Clemente
 - Vila Nova de Milfontes: Centro Histórico
-- Almograve: Porto das Lapas das Pombas (vista)
+- Almograve: Porto das Lapas das Pombas (vista) 👀
 - Zambujeira do Mar & Odexeixe: vilas
-- Monchique: Foia (ponto mais alto do Algarve)
+- Monchique: Foia (ponto mais alto do Algarve) 👀
 - Monchique: Picota
 - Monchique: Caldas de Monchique, "a Sintra of the Algarve"
-- Monchique: Igreja Matriz de Monchique (século XVI, porta Manuelina)
+- Monchique: Igreja Matriz de Monchique (século XVI, porta Manuelina) 👀
 - Monchique: Parque da Mina (distilaria de medronho)
 
 ### Dia 2
 
-Por definir.
+- São Marcos da Serra: Igreja Matriz (século XVII)
+- São Marcos da Serra: Nora histórica na entrada da vila 👀
+- Silves: Castelo (mourisco) 👀
+- Silves: Sé Catedral (século XIII)
+- Silves: Ponte Romana
+- Alcoutim: Castelo
+- Alcoutim: Menires do Lavajo 👀
+- Alcoutim: Praia Fluvial do Pego Fundo 👀
+- Mértola: Castelo 👀
+- Mértola: Igreja Matriz (século XII)
+- Mértola: Praia Fluvial
+- Serpa: Muralhas da cidade
+- Serpa: Castelo
+- Serpa: Portas da cidade 
+- Serpa: Museu do Relógio 👀
+- Serpa: Aqueduto
+- Serpa: Queijo DOP 👀
+- Mourão: Castelo
+- Mourão: Museu da Aldeia da Luz
+- Mourão: Igrejas
 
 ### Dia 3
 
-Por definir.
+- Monsaraz: Castelo 👀
+- Monsaraz: Vila
+- Juromenha: Fortaleza 👀
+- Juromenha: Vistas rio/Espanha
+- Elvas: Forte (património UNESCO) 👀
+- Elvas: Aqueduto (século XVI)
+- Elvas: Centro Histórico 👀
+- Portalegre: Catedral
+- Alter do Chão: Coudelaria de Alter 👀
+- Alter do Chão: Ruínas Romanas 👀
+- Pavia: Dolmen 👀
+- Arraiolos: Castelo
+- Montemor: Castelo
+- Montemor: Empadas de Galinha 👀
 
 ## Alimentação
 
