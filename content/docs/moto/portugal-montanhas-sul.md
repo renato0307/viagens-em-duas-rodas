@@ -24,17 +24,16 @@ Distância aproximadas.
 | 2 | Ter | Monchique | Mourão | 375 | **Localidades**: Silves, São Bartolomeu Messines, Alcoutim, Mértola, Serpa, Moura **Serras**: Malhão, Caldeirão |
 | 3 | Qua | Mourão | Palmela | 360 | **Localidades**: Monsarraz, Juromenha, Elvas, Campo Maior, Portalegre, Alter do Chão, Arraiolos, Montemor-o-Novo **Serras**: São Mamede |
 
-## Rota (GPX)
+
+## Rota
+
+![Mapa geral do percurso](/moto/portugal-montanhas-sul/overview.png)
+
+### GPX
 
 * [Dia 1](/moto/portugal-montanhas-sul/dia1.gpx)
 * [Dia 2](/moto/portugal-montanhas-sul/dia2.gpx)
 * [Dia 3](/moto/portugal-montanhas-sul/dia3.gpx)
-
-### Simplificação
-
-Onde podemos simplificar a rota, se for necessário.
-
-A definir!
 
 ## Alojamento
 
@@ -42,7 +41,35 @@ Prenoita ao ar livre em zonas permitidas ou em parque de campismo, com tenda.
 
 ## Visitar/Conhecer
 
-A definir!
+### Dia 1
+
+- Setúbal: Castelo de Palmela
+- Setúbal: Serra da Arrábida
+- Alcácer do Sal: Castelo 
+- Alcácer do Sal: Cripta Arqueológica
+- Alcácer do Sal: Igreja de Santa Maria do Castelo (século XIII)
+- Alcácer do Sal: Capela Senhor dos Mártires
+- Alcácer do Sal: Pinhoadas (confeitaria típica)
+- Lagoa de Santo André
+- Santiago do Cacém: Castelo
+- Santiago do Cacém: Ruinas de Miróbriga
+- Vila Nova de Milfontes: Forte de São Clemente
+- Vila Nova de Milfontes: Centro Histórico
+- Almograve: Porto das Lapas das Pombas (vista)
+- Zambujeira do Mar & Odexeixe: vilas
+- Monchique: Foia (ponto mais alto do Algarve)
+- Monchique: Picota
+- Monchique: Caldas de Monchique, "a Sintra of the Algarve"
+- Monchique: Igreja Matriz de Monchique (século XVI, porta Manuelina)
+- Monchique: Parque da Mina (distilaria de medronho)
+
+### Dia 2
+
+Por definir.
+
+### Dia 3
+
+Por definir.
 
 ## Alimentação
 
@@ -71,26 +98,46 @@ Por pessoa.
 
 ## Lista de coisas a levar
 
-### Todos
+### Moto
 
-* Tenda
+#### Vestuário
+
+* Botas
+* Calças
+* Camadas interiores
+* Capacete
+* Casaco
+* Luvas de inverno
+* Luvas verão
+* Roupa de chuva
+
+#### Ferramentas e utilidades
+
+* Bomba de ar
+* Ducktake
+* Estojo de primeiros socorros
+* Ferramentas básicas (chaves, alicates, etc.)
+* Gola/passa montanhas
+* J-Weld
+* Kit reparação furos
+
+### Campismo
+
+* Botija gás (2x)
+* Cadeira/banco de campismo ([exemplo 1](https://www.decathlon.pt/p/cadeira-baixa-de-campismo-500-m-dobravel-e-compacta/_/R-p-173601?mc=8927531), [exemplo 2](https://www.decathlon.pt/p/banco-tripe-de-campismo-cinza/_/R-p-13373?mc=8786303))
+* Café
+* Canivete
 * Colchão
-* Saco cama
-* Estacas resistentes (não sabemos o tipo de solo onde vamos dormir)
-* Prato
-* Garfo e faca
 * Copo
-* Lanterna
-* Toalhitas dodot
-* Papel higiénico
-* Calções de banho
-
-### Apenas uma pessoa
-
+* Estacas resistentes (não sabemos o tipo de solo onde vamos dormir)
 * Fogão campismo
-* Botija gás
-* Faca para cozinhar
-* Frigideira
+* Lanterna
 * Panela
-* Sal e pimenta
-* Azeite (mini-garrafa)
+* Papel higiénico
+* Prato
+* Saco cama
+* Sacos de lixo
+* Sal
+* Talheres
+* Tenda
+* Toalhitas dodot
