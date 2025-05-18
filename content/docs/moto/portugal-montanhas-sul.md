@@ -35,6 +35,91 @@ Distância aproximadas.
 * [Dia 2](/moto/portugal-montanhas-sul/dia2.gpx)
 * [Dia 3](/moto/portugal-montanhas-sul/dia3.gpx)
 
+### Road book
+
+Para uma navegação por GPS, é aconselhável usar o formato GPX.
+No entanto, para quem não tem GPS, pode usar o road book.
+
+#### Dia 1
+
+| Ordem | Localidade | Estrada | Distância (km) |
+|-------|------------|----------------------|------------------------|
+| Início | Alameda 25 de Abril | EN 379 | 0 |
+| 1 | Setúbal | EN 10 | 13,95 |
+| 2 | Alcácer do Sal | EN 253 | 70,80 |
+| 3 | Vila Nova Santo André | R261-5 | 123,74 |
+| 4 | Santiago do Cacém | EN 261-3 | 134,42 |
+| 5 | Vila Nova Mil Fontes | Estradas locais | 176,56 |
+| 6 | Almograve | CM 1123 | 190,79 |
+| 7 | Cavaleiro | CM 1124 | 198,44 |
+| 8 | Zambujeira do Mar | CM 1158 | 210,83 |
+| 9 | Odeceixe | EN 120 | 226,93 |
+| 10 | Rogil | EN 120 | 235,68 |
+| 11 | Aljezur | EN 120 | 243,18 |
+| 12 | Bensafrim | EN 120 | 265,14 |
+| 13 | Saída para Monchique | EN 267/ER 267 | 294,57 |
+| 14 | Caldas de Monchique | EN 266/ER 266 | 310,52 |
+| 15 | Monchique | EN 266/ER 266 | 316,45 |
+| 16 | Fóia | EN 266-3 | 324,38 |
+| 17 | Picota | EN 267/ER 267 | 336,22 |
+| 18 | Alferce | CM 1073 | 345,36 |
+| Fim | Destino | CM 1073 | 347,19 |
+
+#### Dia 2
+
+| Ordem | Localidade | Estrada | Distância (km) |
+|-------|------------|----------------------|------------------------|
+| Início | Alferce | CM 1073 | 0 |
+| 1 | São Marcos da Serra | EN 267/ER 267 | 17,91 |
+| 2 | Silves | EN 124/ER 124 | 43,84 |
+| 3 | São Bartolomeu de Messines | Estradas locais | 59,97 |
+| 4 | Malhão | CM 1239 | 86,13 |
+| 5 | Ameixial | EN 2 | 109,07 |
+| 6 | N2 | EN 2 | 110,47 |
+| 7 | Sair N2 | EN 2 | 129,08 |
+| 8 | Feiteira | Estradas locais | 140,65 |
+| 9 | Cachopo | Estradas locais | 151,36 |
+| 10 | Sair para Vaqueiros | Estradas locais | 152,82 |
+| 11 | Sair para Malfrades | Estradas locais | 165,21 |
+| 12 | Zambujal | Estradas locais | 169,75 |
+| 13 | Soudes | Estradas locais | 174,97 |
+| 14 | Odeleite | EN 122 | 190,10 |
+| 15 | Alcaria | Estradas locais | 193,18 |
+| 16 | Alcoutim | EN 122 | 212,13 |
+| 17 | Menires | EM 507 | 227,63 |
+| 18 | Santa Marta | EN 122 | 234,14 |
+| 19 | Espirito Santo | Estradas locais | 244,35 |
+| 20 | Mértola | EN 122 | 258,85 |
+| 21 | Serpa | Avenida Capitães de Abril | 315,84 |
+| 22 | Pias | EN 255 | 333,24 |
+| 23 | Moura | EN 255 | 348,59 |
+| 24 | Póvoa S. Miguel | Estradas locais | 365,22 |
+| 25 | Ponte sobre o Alqueva | Estradas locais | 376,02 |
+| 26 | Mourão | Estradas locais | 382,83 |
+| Fim | Praia de Mourão | Estradas locais | 384,88 |
+
+#### Dia 3
+
+| Ordem | Localidade | Estrada | Distância (km) |
+|-------|------------|----------------------|------------------------|
+| Início | Mourão | EM 517 | 0 |
+| 1 | Monsaraz | EN 256 | 15,91 |
+| 2 | Capelins | EM 546 | 36,59 |
+| 3 | Rosário | CM 1109-1 | 47,68 |
+| 4 | Sair para Juromenha | ER 373 | 57,30 |
+| 5 | Juromenha | ER 373 | 68,81 |
+| 6 | Elvas | Ruas locais | 86,65 |
+| 7 | Campo Maior | Avenida da Liberdade | 107,27 |
+| 8 | Arronches | Rua da Esperança | 130,49 |
+| 9 | Serra de S. Mamede | Estrada Antenas | 160,63 |
+| 10 | Portalegre | Ruas locais | 171,26 |
+| 11 | Alter do Chão | Ruas locais | 205,71 |
+| 12 | Avis | ER 243/ER 370 | 237,70 |
+| 13 | Pavia | ER 370 | 258,85 |
+| 14 | Arraiolos | Largo Simão Dórdio Gomes | 279,90 |
+| 15 | Montemor (entrar na AE) | EN 4 | 301,72 |
+| Fim | Palmela (Alameda 25 de Abril) | EN 379 | 369,23 |
+
 ## Alojamento
 
 Prenoita ao ar livre em zonas permitidas ou em parque de campismo, com tenda.
@@ -145,12 +230,12 @@ Por pessoa.
 #### Ferramentas e utilidades
 
 * Bomba de ar
-* Ducktake
-* Estojo de primeiros socorros
+* Duck tape (fita adesiva americana muito resistente)
+* Estojo de primeiros socorros (inclui manta térmica)
 * Ferramentas básicas (chaves, alicates, etc.)
 * Gola/passa montanhas
-* J-Weld
-* Kit reparação furos
+* J-B Weld (ou similar, solda a frio em bisnaga)
+* Kit reparação furos tubeless
 
 ### Campismo
 
