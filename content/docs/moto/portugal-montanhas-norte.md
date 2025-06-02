@@ -20,25 +20,22 @@ Distância aproximadas.
 
 | **Dia** | **Semana** | **Partida** | **Destino** | **Kms** | **Detalhes** |
 |-------|----------|-------------|-------------|--------|---------------------------------------------------------------------------------------------------------------|
-| 0 | Seg | Barreiro/Lisboa | Gêres | 430 | Auto-estradas, paragens a cada 90 min |
-| 1 | Ter | Gerês | Mirandela | 370 | **Localidades**: Vinhais, Bragança **Serras**: Gêres, Borne |
-| 2 | Qua | Mirandela | Caramulo | 325 | **Localidades**: Pedras Salgadas, Vila Real **Estradas**: N2, N222 **Serras**: Montemuro, Caramulo |
-| 3 | Qui | Caramulo | Gois | 365 | **Localidades**: Oliveira do Hospital, Seia, Manteigas, Covilhã, Unhais da Serra, Piodão **Serras**: Estrela |
-| 4 | Sex | Gois | Barreiro/Lisboa | 350 | **Localidades**: Lousa, Pedrogão, Serta, Abrantes, Ponte de Sor, Vendas Novas **Estradas**: N2, N4 **Serras**: Lousã |
-
+| 0 | Seg | Barreiro/Lisboa | Gêres | 430 | Auto-estradas, paragens a cada 60/90 min |
+| 1 | Ter | Gerês | Mirandela | 340 | **Localidades**: Vinhais, Bragança **Serras**: Gêres, Borne |
+| 2 | Qua | Mirandela | Caramulo | 310 | **Localidades**: Pedras Salgadas, Vila Real **Estradas**: N2, N222 **Serras**: Montemuro, Caramulo |
+| 3 | Qui | Caramulo | Gois | 325 | **Localidades**: Oliveira do Hospital, Seia, Manteigas, Covilhã, Unhais da Serra, Piodão **Serras**: Estrela |
+| 4 | Sex | Gois | Barreiro/Lisboa | 350 | **Localidades**: Lousa, Ponte de Sor, Vendas Novas **Estradas**: N2, N4 **Serras**: Lousã |
 
 ## Rota (GPX)
 
+* Dia 0 - Encontro na àrea de serviço de Aveiras, às 8h30 - paragens em Aveiras (A1), Pombal (A1), VN Gaia/Porto (A1), Braga (A3)
 * [Dia 1](/moto/portugal-montanhas-norte/dia1.gpx)
 * [Dia 2](/moto/portugal-montanhas-norte/dia2.gpx)
 * [Dia 3](/moto/portugal-montanhas-norte/dia3.gpx)
-* [Dia 4](/moto/portugal-montanhas-norte/dia4.gpx)
-
-### Simplificação
-
-Onde podemos simplificar a rota, se for necessário.
-
-A definir!
+* [Dia 3b](/moto/portugal-montanhas-norte/dia3b.gpx) (evita N338 que vai fechar por 4 meses)
+* [Dia 4a](/moto/portugal-montanhas-norte/dia4a.gpx)
+* [Dia 4b](/moto/portugal-montanhas-norte/dia4b.gpx)
+* [Dia 4c](/moto/portugal-montanhas-norte/dia4c.gpx)
 
 ## Alojamento
 
