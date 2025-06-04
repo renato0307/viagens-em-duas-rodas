@@ -50,11 +50,32 @@ Preços por pessoa.
 
 ## Visitar/Conhecer
 
-A definir!
+### Dia 0
+
+- Almoçar numa tasca no Porto (Casa Guedes?)
+- Mergulho no rio no Gerês
+
+### Dia 1
+
+- 
+
+### Dia 2
+
+- 
+
+### Dia 3
+
+- Padaria dos Irmãos Castanheira, Seia
+- Taberna das Caldas, Manteigas
+- Padaria Dias, Covilhã
+
+### Dia 4
 
 ## Alimentação
 
-A definir!
+Dia 0:
+- Almoço no Porto
+- Jantar no Gerês (restaurante local, Cávado ou Sobreiro, 2 km do hotel)
 
 ## Orçamento (estimativa)
 
@@ -64,3 +85,68 @@ Por pessoa.
 * Alimentação: 5*(20+20) = 200 EUR
 * Combustível: 150 EUR
 * **Total**: 510 EUR
+
+## Lista de coisas a levar
+
+### Moto
+
+* Botas
+* Calças
+* Camadas interiores
+* Capacete
+* Casaco
+* Cobertura da mota
+* Gola
+* Impermeáveis
+* Luvas de inverno
+* Luvas verão
+* Manguitos
+* Óculos de sol
+* Tampões para os ouvidos
+
+### Ferramentas e utilidades
+
+* Bomba de ar
+* Duck tape (fita adesiva americana muito resistente)
+* Estojo de primeiros socorros (inclui manta térmica)
+* Ferramentas básicas (chaves, alicates, etc.)
+* J-B Weld (ou similar, solda a frio em bisnaga)
+* Kit reparação furos tubeless
+
+### Roupa
+
+* Calçado noite
+* Calças noite (1x)
+* Calções banho 
+* Chinelos
+* Cuecas (5x)
+* Meias (5x)
+* Pijama verão
+* Saco para roupa suja
+* Sweatshirt 
+* T-shirts (5x)
+* Toalha banho (fina)
+
+### Higiene
+
+* Creme assaduras
+* Desodorizante 
+* Fio dentífrico
+* Pasta e escova dentes 
+* Protector solar
+* Toalhitas bebé
+
+### Electrónica
+
+* Cabo Apple Watch 
+* Cabo multifunções
+* Carregador
+* Carregador GoPro
+* GoPro
+* GPS (telemóvel)
+* Power bank
+
+### Alimentação
+
+* Garrafa de água
+* Snacks/Barritas
