@@ -28,7 +28,10 @@ Distância aproximadas.
 
 ## Rota (GPX)
 
-* Dia 0 - Encontro na àrea de serviço de Aveiras, às 8h30 - paragens em Aveiras (A1), Pombal (A1), VN Gaia/Porto (A1), Braga (A3)
+* Dia 0 - Encontro na àrea de serviço de Aveiras, às 8h30. Sugestão de paragens:
+   * Aveiras (A1, km 44)
+   * Pombal (A1, km 164)
+   * VN Gaia/Porto (A1, km 310)
 * [Dia 1](/moto/portugal-montanhas-norte/dia1.gpx)
 * [Dia 2](/moto/portugal-montanhas-norte/dia2.gpx)
 * [Dia 3](/moto/portugal-montanhas-norte/dia3.gpx)
@@ -48,12 +51,13 @@ Preços por pessoa.
 | 2 | Inn Caramulo Hotel | [Site](https://inncaramulohotel.pt) | 37,5 | Sim | Sim, vigilância | No checkin |
 | 3 | Casa de Campo Vale do Ceira | [Site](https://casadecampovaledoceira.talkguestwebsites.com) | 42,5 | Não | Sim | Sim |
 
-## Visitar/Conhecer
+## Visitar/Conhecer/Comer
 
 ### Dia 0
 
-- Almoçar numa tasca no Porto (Casa Guedes?)
-- Mergulho no rio no Gerês
+- Sandes numa tasca no Porto (Casa Guedes?) 🍽️
+- Mergulho no rio no Gerês 🏖️
+- Jantar no Gerês (restaurante local, Cávado ou Sobreiro, 2 km do hotel) 🍽️
 
 ### Dia 1
 
@@ -61,21 +65,25 @@ Preços por pessoa.
 
 ### Dia 2
 
-- 
+- Pedras Salgadas: Parque Termal e Spa ⛲
+- Serra do Caramulo 🏞️
 
 ### Dia 3
 
-- Padaria dos Irmãos Castanheira, Seia
-- Taberna das Caldas, Manteigas
-- Padaria Dias, Covilhã
+- Seia: Padaria dos Irmãos Castanheira 🍞
+- Manteigas: Taberna das Caldas 🍽️
+- Covilhã: Padaria Dias 🍞
+- Torre da Serra da Estrela (1993 m) 🏞️
+- Góis: praia fluvial 🏖️
+- Góis: Cabril da Ceira 🏖️
+- Góis: Ponte Real  🏛️ 
+- Góis: Beira Rio 🍽️
 
 ### Dia 4
 
-## Alimentação
-
-Dia 0:
-- Almoço no Porto
-- Jantar no Gerês (restaurante local, Cávado ou Sobreiro, 2 km do hotel)
+- Aldeias de Xisto (Comareira, Aigra Velha) 🏡
+- Alvares: praia fluvial 🏖️
+- Fratel: miradouro 🏞️
 
 ## Orçamento (estimativa)
 
@@ -112,6 +120,7 @@ Por pessoa.
 * Ferramentas básicas (chaves, alicates, etc.)
 * J-B Weld (ou similar, solda a frio em bisnaga)
 * Kit reparação furos tubeless
+* Lubrificante corrente
 
 ### Roupa
 
