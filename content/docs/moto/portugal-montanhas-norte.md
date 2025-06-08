@@ -28,17 +28,12 @@ Distância aproximadas.
 
 ## Rota (GPX)
 
-* Dia 0 - Encontro na àrea de serviço de Aveiras, às 8h30. Sugestão de paragens:
-   * Aveiras (A1, km 44)
-   * Pombal (A1, km 164)
-   * VN Gaia/Porto (A1, km 310)
-* [Dia 1](/moto/portugal-montanhas-norte/dia1.gpx)
-* [Dia 2](/moto/portugal-montanhas-norte/dia2.gpx)
-* [Dia 3](/moto/portugal-montanhas-norte/dia3.gpx)
-* [Dia 3b](/moto/portugal-montanhas-norte/dia3b.gpx) (evita N338 que vai fechar por 4 meses)
-* [Dia 4a](/moto/portugal-montanhas-norte/dia4a.gpx)
-* [Dia 4b](/moto/portugal-montanhas-norte/dia4b.gpx)
-* [Dia 4c](/moto/portugal-montanhas-norte/dia4c.gpx)
+* Dia 0 - [GPX](/moto/portugal-montanhas-norte/dia0.gpx) | [Kurviger](https://kurv.gr/u8r3a)
+* Dia 1 - [GPX](/moto/portugal-montanhas-norte/dia1.gpx) | [Kurviger](https://kurv.gr/nQ8BJ)
+* Dia 2 - [GPX](/moto/portugal-montanhas-norte/dia2.gpx) | [Kurviger](https://kurv.gr/n3Mmb)
+* Dia 3 - [GPX](/moto/portugal-montanhas-norte/dia3.gpx) | [Kurviger](https://kurv.gr/7aSL2d)
+* Dia 3 - [GPX](/moto/portugal-montanhas-norte/dia3b.gpx) | [Kurviger](https://kurv.gr/Ek8Jk) - evita N338 que vai fechar por 4 meses
+* Dia 4 - [GPX](/moto/portugal-montanhas-norte/dia4.gpx) | [Kurviger](https://kurv.gr/xAeaY)
 
 ## Alojamento
 
@@ -61,7 +56,15 @@ Preços por pessoa.
 
 ### Dia 1
 
-- 
+- Miradouro da Cascata de Fecha de Barjas (km 40)
+- Negrões (km 100)
+- Chaves (km 145)
+- Vinhais (km 210)
+- Bragança (km 245)
+- Podence (km 280)
+- Vista Panorâmica Bornes Norte (km 305)
+- Vista Panorâmica Bornes Sul (km 310)
+
 
 ### Dia 2
 
