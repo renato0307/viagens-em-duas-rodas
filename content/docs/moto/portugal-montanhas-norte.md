@@ -56,19 +56,26 @@ Preços por pessoa.
 
 ### Dia 1
 
-- Miradouro da Cascata de Fecha de Barjas (km 40)
-- Negrões (km 100)
-- Chaves (km 145)
-- Vinhais (km 210)
-- Bragança (km 245)
-- Podence (km 280)
-- Vista Panorâmica Bornes Norte (km 305)
-- Vista Panorâmica Bornes Sul (km 310)
+- Miradouro da Cascata de Fecha de Barjas (km 40) 🏞️
+- Negrões (km 100) 🏛️
+- Chaves (km 145) 🏛️
+- Vinhais (km 210) 🍽️
+- Bragança (km 245) 🍽️
+- Podence (km 280) 🏛️
+- Vista Panorâmica Bornes Norte (km 305) 🏞️
+- Vista Panorâmica Bornes Sul (km 310) 🏞️
 
 
 ### Dia 2
 
-- Pedras Salgadas: Parque Termal e Spa ⛲
+- Pedras Salgadas: Parque Termal e Spa (km 60) ⛲
+- Vila Real (km 93) 🏛️
+- Peso da Régua (km 120) 🏛️
+- N222 (km 120-170) 🏛️
+- Cinfães (km 170) 🏛️
+- Arouca / Senhora da Mó (km 240) 🏞️
+- São Pedro do Sul (km 298) 🏛️
+- Miradouro Portas de Montemuro (km 338) 🏞️
 - Serra do Caramulo 🏞️
 
 ### Dia 3
@@ -79,7 +86,7 @@ Preços por pessoa.
 - Torre da Serra da Estrela (1993 m) 🏞️
 - Góis: praia fluvial 🏖️
 - Góis: Cabril da Ceira 🏖️
-- Góis: Ponte Real  🏛️ 
+- Góis: Ponte Real 🏛️ 
 - Góis: Beira Rio 🍽️
 
 ### Dia 4
