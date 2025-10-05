@@ -59,13 +59,17 @@ Subir à Foia e depois ir em direção ao Alto do Malhão.
 
 Dormir em Monchique na noite anterior.
 
+Albergaria do Lageado
+https://www.booking.com/Share-pi0zQk
+
+
 ## Alimentação
 
 Por definir.
 
 ## Orçamento (estimativa)
 
-Por definir.
+Alojamento: 195€ (3 quartos duplos), 32.50€/pessoa
 
 ## Lista de coisas a levar
 
